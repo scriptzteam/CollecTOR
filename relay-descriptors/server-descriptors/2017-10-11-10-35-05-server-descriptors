@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 95.129.55.173 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4ATF1FfD71GUlfcGFGPqClS2Hlw6fn3spt+wvKK8S3MOXAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hqC1WM3up2KFEnrCgT/V6SAMLG+Q
+w8eHOsvikc1ujGff4XtCo1ebTZYz5cWF4xA1IslNeF/HDmoOb/6AIpjJHQM=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-10-11 09:18:31
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 173521
+bandwidth 819200 1638400 7229
+extra-info-digest 65E236508F89A61E2C0DDD80C2BD5124E4D5D3D4 qxrANwQdYcXpAXPgHvRMyjjogiIVKJC1lgfMo15yId8
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALPYtYZx7HNzTB5T8mE750jmsoyI2AXr+p2FJqz2ZgEBqnig3VfF3M6c
+vBmkulKn9WE2JQvY+8SKqj3PkLgE91k7yTneVKrZ3vZeW0xRfrh7KVX7311cvoSc
+H0FKsbl9wBGkYnWYhTMDr81OVN8iMtPG5krJFxEINZDWQB7jWYPFAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+pbXD/Iz2aIg7QyCmd3gtJJpp6bTmoFUYRAOdoPLAWIphfCQ9LaNc2va2WciCkTIj
+T21W2Xo8+gUPMShmZKPCP+tsPeIBGidqkN0CNcvusJzdHhMUiMrGSv2HDbzkkKZF
+Dxl0DKvkX5U3p++m3SScj0EfjE1tgYmzXadUZEPd5QA=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABmSiAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGAMBD/eyMSyEe
+cUHrZVxOoXNc7gintWZD/POyMFspb1uDbmn6UgL6ySjJTg4iEGSqq5zgOYI6fQlC
+DYSSvYMLqgk=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key eZClxhllN0Uf5J1AddxjngvXeafISv8LaNr1bxNQfjw=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 KE0dKQ0rd/5Qvm1jIEpnh0vJzFP3HSWbweHrxxj4ckBb93Yyaa09TI2l68AbJKaj2ssMb4WtPC9HspUQlksYBQ
+router-signature
+-----BEGIN SIGNATURE-----
+idQ+D+uoserpIjf90uMQ6h38nMvw3XYT8e++vVuFUlek0SI2wSnCBlkU9ETsLxSe
+DoDts7v3EHUbBKfPNIIMiJdDQTcc5zUMwAfb4FVrWTMrbAJ1eNNRo4eNQk7p8b1p
+pifA+g6OdHqOCfG1u2vT61JR7yTym5zS6dfjDcu/WmQ=
+-----END SIGNATURE-----
