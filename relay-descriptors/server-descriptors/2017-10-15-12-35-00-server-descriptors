@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router UbuntuCore189 98.247.101.252 37316 0 0
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmUjAfL1+w1KQPcXzqmMH9LP9uFeqm/MFJccNB0igncEPr7bAQAgBACVfV4A
+xDaz2cANg/HK3gTTiWCWTJWub1SBN+0JrS+hwhm2BLl4Qw/o0YGGuE18fSfcptrh
+Sl7Qd6apgOhJExCP6f4HwI75m5F9IvDdvm0HeD3/RZJu4IH16D7iiq3fCwM=
+-----END ED25519 CERT-----
+master-key-ed25519 lX1eAMQ2s9nADYPxyt4E04lglkyVrm9UgTftCa0vocI
+platform Tor 0.3.1.7 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1-2 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-10-15 11:48:08
+fingerprint 88A1 E3EF 41C8 FA3C 1EA0 5DDA 670C F671 734C 1F7E
+uptime 2
+bandwidth 4194304 6291456 1530676
+extra-info-digest 9A4660B3A3ECDF1FEEE53816F572FE531FE3683F haKkOe9rh9aoENHb82anfg2BA7jKzRCK7pqT5Qt+nB8
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKy8GQUoX9y50pjDjhlgH6vMgNEKJbOtqWol06sKGZKg9/QHpJFeb6ye
+IiLPSfgVZXHI3t9sfRVBGfCdpU97B5YVwyB+5SveAi+ew8v8IWrHsr6CazEfqJ5W
+dej7hU38BE4ivrj0VxyGCcyguisUwcaM/ePWfcv1dqt7XKVf24+RAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMiTzX8DKsMyAEliM19skmAwpuWad6l4gE7WZ1bzwrlOejvecn6/sT4/
+ivKLeQOTjjIiP4oPtJN9SUJRPboTKH0sNaBVKJW6pZZJvxrDDekz2DdgbZBeaVbQ
+EN3t7gAP5ymbwCt3KJEKdk2NVdEquFA4ZLwEfq29le0GHc9HTtDlAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+X+Wehd1Nyy/4aQixJOBHn72uDBy1BasSI8FELva0JD6enlJhPkR9t+xCABvgNlAT
+6Iu/+lwyCK0MqkuhojqkzFUmuc8rmkn5vkHpxhRsLsR5fIuDf6DP1PbyUsz1UrC6
+pCzAnT97Cv/AgvRuWFbwIwCZZrPHEz7+bz8hIPvUPpY=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABmb8AZV9XgDENrPZwA2D8creBNOJYJZMla5vVIE37QmtL6HCAOfiVHIgptOC
+y6BYoOPQf/7WN6eXhULxfjStFCaSepL/HMD3OXhapTM+JDZmmpdLltreQOyvzcu+
+olehZHLG+wg=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key 77jrDsegt3TPcocee2+y4t2Yp7ZtAHwic4vEIikwCms=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 M/mULXgTWvk2+b7uq2WTLy3bETcjk2yOx29GAsXyzeaNp2htza5v5PabPd1o0r+iWrBe5PfajJb6HroCr0O5DA
+router-signature
+-----BEGIN SIGNATURE-----
+QNy/pExIhSkKKYJ1Aqqm9E0ZoK28+jz/rojyIHS1WojaXBNTFbV9pkM+xew5uHBO
+4VSECHkxUyhGzATCfKTYpn4xPQ4ErFsRhdZOkvWHy4qwAoS1SrPfGF24hJiIVtXB
+iyPn1+gAnSjZCGW3rwsLSlQrlu1BL8TJe68dK5E+ruI=
+-----END SIGNATURE-----
