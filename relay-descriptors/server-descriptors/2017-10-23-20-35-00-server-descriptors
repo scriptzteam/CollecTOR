@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 95.129.55.173 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4ATF1FfD71GUlfcGFGPqClS2Hlw6fn3spt+wvKK8S3MOXAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hqC1WM3up2KFEnrCgT/V6SAMLG+Q
+w8eHOsvikc1ujGff4XtCo1ebTZYz5cWF4xA1IslNeF/HDmoOb/6AIpjJHQM=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-10-23 19:33:47
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 1247237
+bandwidth 819200 1638400 65462
+extra-info-digest 65B07541317E1600889582AF57E626F6C39573B3 fjMByOmj1H1iIDs1wYTVDczi9oIHZZyd0cD7z8qlpwQ
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAPC8Rhwykv3xzH1dnTmSJtABDVg9HtM1nJykDaqj5sm0a0N4l2UUmsjT
+rnyg9AnRFLm35KsoC6bCW2R0OPGm3xhNPruvCsaX8ET9OkuBVqTFzadfpvlhi6WP
+manUDOl2kt2QMLyHL0CvNBEnCIfc7yzxkSTUVB1kWpkms/o7B10HAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+LOSwTy90Dq7BRucg1UDgKkwA+SzDlGHN+QSiMQAYXGC2PJNSZ23Z+IQd1S9d04vq
+9rcRKI0liTPIrDih9lIOfBTwC4MmUaIEMw2dnwD/wpO6gXNzSnxhL0C4EWCmWRe2
+XalSzn9WTb197f3XHhTGQ5BRRmCYGWG0LepA3Cllr90=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABmXMAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGAI6XGX/7TPf9
+HHBhaDzDTVH9JJnri3NY1aI5bDJ5OUVDonKFqoObc9pP1LJhGQwbi7+hlKphayR2
+fKKxd3ObkQg=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key o5iq5uy2eq2YgD5kinm0sShbNtpqvIdMndAX2e32Dnc=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 7gHqVsCq+QEcaHL3tfv7JaPFboTH1GWj/kzS3lCHrOnOu/Fyjdmb8Vh05hfUD03OUnTDPta0ZH0HMjbzlcpEBQ
+router-signature
+-----BEGIN SIGNATURE-----
+1snMu3AVbz7l/N9fk2+1GVR3STZjieAU1IDebsJRrUwXJasc1qeDmvwfO9+n0Pvn
+vQhe04pWhw9lluLCZ6XWCVHdXO57C1kWj4ewb/QA0KlnN/yNYjDMUn5PjP11yjX8
+MOmweXJbybcXTPRcyGmOZqVazsnqIuevnzWWedeHnko=
+-----END SIGNATURE-----

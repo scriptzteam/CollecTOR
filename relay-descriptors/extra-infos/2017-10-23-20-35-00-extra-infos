@@ -1,0 +1,31 @@
+@type extra-info 1.0
+extra-info xmine128 A7B6970237878E3550AE32BC574672CAF1E95FDC
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4ATF1FfD71GUlfcGFGPqClS2Hlw6fn3spt+wvKK8S3MOXAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hqC1WM3up2KFEnrCgT/V6SAMLG+Q
+w8eHOsvikc1ujGff4XtCo1ebTZYz5cWF4xA1IslNeF/HDmoOb/6AIpjJHQM=
+-----END ED25519 CERT-----
+published 2017-10-23 19:33:47
+write-history 2017-10-23 17:12:59 (14400 s) 358400,235520,987136,262144,231424,979968
+read-history 2017-10-23 17:12:59 (14400 s) 8840192,3600384,8482816,6392832,8297472,8235008
+dirreq-write-history 2017-10-23 11:54:44 (14400 s) 0,0,0,624640,0,0
+dirreq-read-history 2017-10-23 11:54:44 (14400 s) 0,0,0,1024,0,2048
+geoip-db-digest B2E5105287668771E34A66F90B34982D419727EF
+geoip6-db-digest 8DA8AC3C8158CBFDF7DB53BBF73338246872371A
+dirreq-stats-end 2017-10-23 09:05:05 (86400 s)
+dirreq-v3-ips ua=8
+dirreq-v3-reqs ua=8
+dirreq-v3-resp ok=8,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=4,timeout=0,running=0
+hidserv-stats-end 2017-10-23 09:05:05 (86400 s)
+hidserv-rend-relayed-cells -2378 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 27 delta_f=8 epsilon=0.30 bin_size=8
+router-sig-ed25519 DJKfaXIRks4Ovw/1z5wSPxS8C52OGjiUyipxqkQwEGr1edPfSiMgVjxfTEre3SBO5pgb211aDRLXL4mtfk9ABQ
+router-signature
+-----BEGIN SIGNATURE-----
+ruvDKAGeT2wRBwLGBC2ZTyacT6sfBxKFWMpoZtzVAZ9S0b5H1iAE6BDMTk052nz7
+2acdiAVizdPYfFwOY324B6xBewvhHoiEoXy9bDkSmg8Ry7LPyy5CdMWb9gXr7BSr
+I9mbbaLJOZLTZwG7L2PddT9p1JaW9AYX2aWlQS68/cE=
+-----END SIGNATURE-----
