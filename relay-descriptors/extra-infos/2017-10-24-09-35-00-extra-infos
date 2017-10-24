@@ -1,0 +1,23 @@
+@type extra-info 1.0
+extra-info marburgFever EF74AE202B54C19C53585056C5F7E8F74E1E99C2
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmfDAfR4BhsmXqM9+zF/UvBwq0wgbghgPwc/uJMtbMkuSl8YAQAgBAA5gQ/F
+4a2wwW9tuOYUyREou2aLPBrXxxu/n2VukBWgamvajbddsfYd8kpGoNiMpfAX75aw
+w/5rldzV/cdjEmmTkReEr+du7w1cvjBpyOYK8eeBGOtvuptyuUPIX9n3BQc=
+-----END ED25519 CERT-----
+published 2017-10-24 08:25:28
+write-history 2017-10-24 08:12:23 (14400 s) 976896,205824,267264,244736,229376,206848
+read-history 2017-10-24 08:12:23 (14400 s) 9043968,3962880,5842944,7390208,4657152,8061952
+dirreq-write-history 2017-10-22 04:12:23 (14400 s) 0,0,0,0,0,0
+dirreq-read-history 2017-10-22 04:12:23 (14400 s) 0,0,0,0,0,0
+hidserv-stats-end 2017-10-24 08:13:10 (86400 s)
+hidserv-rend-relayed-cells 7571 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -10 delta_f=8 epsilon=0.30 bin_size=8
+router-sig-ed25519 B4IP9xH8V67YGSluYowp1uAAI3Q1KVBLIa0qNuN2dseouPiqk6Gjn263LqLRVZ0G2j04/nHcTEw/9P+hbObJBQ
+router-signature
+-----BEGIN SIGNATURE-----
+e9+JxinP8sK6NeCdcAK0oLyuGiuAVrzYRoasKEyWBMY2sQDp8Qof6yehZwmib8DB
+Pn4h1SG+eBSJbQv2/M7IDuK8O5fnej7hrVDRRYtuAiI9flqb48nMEM3ftRlnXOdW
+ZIcGAg3gEZ/Np3qTBebrFSUcL/i+ZqTQP4ipdmSQa3Q=
+-----END SIGNATURE-----
