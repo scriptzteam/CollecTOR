@@ -1,0 +1,64 @@
+@type extra-info 1.0
+extra-info zwiebeltoralf 1AF72E8906E6C49481A791A6F8F84F8DFEBBB2BA
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmbfATY7jeU4JKzfQV5E0wKrey3QRHg+0Yfk00Lg7npDmN+oAQAgBAA0+ZNw
+fC6cSvR0dJhEDT8+31yh6JtxKS6GX+Si0V3If0MW8T5HJ5De5I4EkSqNVAOWGvkf
+vJI4RaKyXQswbIT6PrifR/QRbAKbGNF3c8259fvC//Zb4Xjs3MA68OahJw4=
+-----END ED25519 CERT-----
+published 2017-10-24 12:49:50
+write-history 2017-10-24 11:10:30 (14400 s) 185648966656,208362530816,217497749504,155917833216,148998881280,168936616960
+read-history 2017-10-24 11:10:30 (14400 s) 181964340224,203838185472,213128392704,153127022592,146486595584,166289255424
+dirreq-write-history 2017-10-24 11:10:30 (14400 s) 2008595456,2376987648,2954225664,1232572416,1382335488,1487072256
+dirreq-read-history 2017-10-24 11:10:30 (14400 s) 58399744,84151296,70668288,25667584,44286976,51501056
+geoip-db-digest 0CE9EA8882EDED265451C36B49AE7BBB06A11C16
+geoip6-db-digest C4573496EBD1CC335843067107DA49E482568FF6
+dirreq-stats-end 2017-10-23 18:25:59 (86400 s)
+dirreq-v3-ips ae=1568,ru=832,us=784,de=584,ua=488,gb=288,id=272,fr=232,in=192,it=152,nl=144,pl=104,ca=96,es=96,br=80,mx=80,om=80,jp=72,ch=64,tw=56,au=48,ar=40,at=40,bd=40,ro=40,se=40,be=32,bg=32,cz=32,fi=32,hk=32,hu=32,kr=32,my=32,pk=32,co=24,dz=24,eg=24,gr=24,ie=24,il=24,ir=24,ke=24,ph=24,sg=24,tr=24,by=16,dk=16,kz=16,lt=16,lv=16,md=16,ng=16,no=16,pt=16,qa=16,ve=16,vn=16,za=16,??=8,af=8,al=8,am=8,ao=8,az=8,ba=8,bf=8,bh=8,bi=8,bo=8,bw=8,ci=8,cl=8,cn=8,cr=8,cu=8,dj=8,do=8,ec=8,ee=8,et=8,ga=8,ge=8,gh=8,gt=8,hn=8,hr=8,im=8,iq=8,is=8,jo=8,kg=8,kh=8,kp=8,kw=8,la=8,lb=8,li=8,lk=8,ls=8,lu=8,ly=8,ma=8,mk=8,mn=8,mr=8,mu=8,ni=8,np=8,nz=8,pa=8,pe=8,pr=8,ps=8,py=8,re=8,rs=8,sa=8,sd=8,si=8,sk=8,sr=8,sy=8,th=8,tj=8,tn=8,tt=8,tz=8,ug=8,uy=8,uz=8,ye=8
+dirreq-v3-reqs ru=4264,ae=1728,us=1640,de=1496,id=1272,ua=1216,gb=496,fr=344,md=256,in=216,nl=200,it=176,tw=152,ca=128,br=120,pl=112,es=104,mx=104,om=96,jp=88,ch=80,hk=72,kr=64,au=48,ro=48,se=48,ar=40,at=40,bd=40,be=40,bg=40,ie=40,il=40,my=40,by=32,cz=32,fi=32,hu=32,pk=32,qa=32,sg=32,co=24,dz=24,eg=24,gr=24,ir=24,ke=24,ph=24,pt=24,tr=24,za=24,cl=16,cn=16,dk=16,gh=16,iq=16,kz=16,lt=16,lv=16,ng=16,no=16,ve=16,vn=16,??=8,af=8,al=8,am=8,ao=8,az=8,ba=8,bf=8,bh=8,bi=8,bo=8,bw=8,ci=8,cr=8,cu=8,dj=8,do=8,ec=8,ee=8,et=8,ga=8,ge=8,gt=8,hn=8,hr=8,im=8,is=8,jo=8,kg=8,kh=8,kp=8,kw=8,la=8,lb=8,li=8,lk=8,ls=8,lu=8,ly=8,ma=8,mk=8,mn=8,mr=8,mu=8,ni=8,np=8,nz=8,pa=8,pe=8,pr=8,ps=8,py=8,re=8,rs=8,sa=8,sd=8,si=8,sk=8,sr=8,sy=8,th=8,tj=8,tn=8,tt=8,tz=8,ug=8,uy=8,uz=8,ye=8
+dirreq-v3-resp ok=15456,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=3280,busy=0
+dirreq-v3-direct-dl complete=5504,timeout=116,running=4,min=425,d1=86564,d2=165156,q1=218293,d3=295945,d4=364855,md=417076,d6=423012,d7=425069,q3=425871,d8=426909,d9=478232,max=65455250
+dirreq-v3-tunneled-dl complete=9436,timeout=392,running=4,min=857,d1=101763,d2=223286,q1=268619,d3=335158,d4=477245,md=637725,d6=848906,d7=1130682,q3=1397797,d8=1658487,d9=2652529,max=9928913
+hidserv-stats-end 2017-10-23 18:25:59 (86400 s)
+hidserv-rend-relayed-cells 8098680 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 22 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-10-23 18:26:19 (86400 s) bin-size=10000 write-drop=0 write-pad=810000 write-total=910000 read-drop=0 read-pad=840000 read-total=480010000 enabled-read-pad=220000 enabled-read-total=2380000 enabled-write-pad=300000 enabled-write-total=300000 max-chanpad-timers=196
+router-sig-ed25519 9umoAajo6bmR/vu/m6vKtW1e3b5k27wZRVx8eTL99wihMY77o33daFrncDlvzcdYJ+BM57cEWzgZbcGtpnvPBg
+router-signature
+-----BEGIN SIGNATURE-----
+ozvjo2D1ir37U6PMRbt1PHbYagkYbklt90FJpLuB5+7VfGLQOATlzl1ZD1j8BuEo
+6rBsSAbQxMv9p6zch5ElrKkY4gdaDn2K3KFjQsWcrnbAxudnFeQfWpax92e3hxiX
+2zKFnJ7/2qbobCx2qnIiEV9zKjqU8Q1KIuEJQP3x1rc=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info zwiebeltoralf2 6EABEBF38CE7E3DF672C4DB01383606FE3EB2215
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmd9AZfZ0HOer2kK0quhgz4NPtlU1DtUNtLZlOYzo9A6nwPwAQAgBABmfmgT
+eF9Sw+TI765XfNMGkFyPRXrgQ5tVNlMdjO8fVkIiyS+cAaQaGUYfX/P6JA/THsSO
+Xi1Ba05iNcK/50RYUGjc2Hv9a4hGD1moSjjWT3f9iF+pMQc9Msah+kXIWgQ=
+-----END ED25519 CERT-----
+published 2017-10-24 12:49:40
+write-history 2017-10-24 10:45:47 (14400 s) 106943961088,111751271424,95345200128,93419858944,90642728960,87279500288
+read-history 2017-10-24 10:45:47 (14400 s) 105853831168,110650930176,94306884608,92261697536,89601250304,86446642176
+dirreq-write-history 2017-10-24 10:45:47 (14400 s) 54431744,85512192,259938304,46379008,34443264,34194432
+dirreq-read-history 2017-10-24 10:45:47 (14400 s) 942080,1351680,25086976,492544,364544,319488
+geoip-db-digest 0CE9EA8882EDED265451C36B49AE7BBB06A11C16
+geoip6-db-digest C4573496EBD1CC335843067107DA49E482568FF6
+dirreq-stats-end 2017-10-23 18:25:59 (86400 s)
+dirreq-v3-ips us=144,de=120,fr=88,it=64,ru=56,gb=32,jp=32,nl=32,ca=24,es=24,pl=24,ar=16,at=16,au=16,br=16,ch=16,co=16,tw=16,ua=16,ae=8,am=8,bd=8,be=8,bg=8,cl=8,cr=8,cy=8,cz=8,dk=8,dz=8,ec=8,ee=8,fi=8,gh=8,gp=8,gr=8,hk=8,hr=8,hu=8,id=8,ie=8,il=8,in=8,ir=8,kr=8,kw=8,ky=8,kz=8,lt=8,ma=8,md=8,me=8,mm=8,mx=8,my=8,ng=8,no=8,pe=8,ph=8,pk=8,pt=8,ro=8,rs=8,sa=8,sd=8,se=8,sg=8,si=8,sk=8,th=8,tr=8,uy=8,ve=8,vn=8,za=8
+dirreq-v3-reqs us=232,de=216,md=128,fr=88,ru=80,it=64,nl=56,jp=40,es=32,gb=32,pl=32,ca=24,ar=16,at=16,au=16,br=16,ch=16,co=16,fi=16,mx=16,tw=16,ua=16,uy=16,ae=8,am=8,bd=8,be=8,bg=8,cl=8,cr=8,cy=8,cz=8,dk=8,dz=8,ec=8,ee=8,gh=8,gp=8,gr=8,hk=8,hr=8,hu=8,id=8,ie=8,il=8,in=8,ir=8,kr=8,kw=8,ky=8,kz=8,lt=8,ma=8,me=8,mm=8,my=8,ng=8,no=8,pe=8,ph=8,pk=8,pt=8,ro=8,rs=8,sa=8,sd=8,se=8,sg=8,si=8,sk=8,th=8,tr=8,ve=8,vn=8,za=8
+dirreq-v3-resp ok=1264,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=112,busy=0
+dirreq-v3-direct-dl complete=12,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=1232,timeout=16,running=0,min=1309,d1=96289,d2=278761,q1=334525,d3=404256,d4=557115,md=701373,d6=894766,d7=1245214,q3=1552229,d8=1882111,d9=4487395,max=9766237
+hidserv-stats-end 2017-10-23 18:25:59 (86400 s)
+hidserv-rend-relayed-cells 3629720 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -82 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-10-23 18:26:19 (86400 s) bin-size=10000 write-drop=0 write-pad=660000 write-total=720000 read-drop=0 read-pad=690000 read-total=277710000 enabled-read-pad=80000 enabled-read-total=840000 enabled-write-pad=110000 enabled-write-total=110000 max-chanpad-timers=133
+router-sig-ed25519 6RkU6WjlNeRZ/X8fZcQKc7nn34B75cJ4ADfXaACr707tJOmnSYXexF5NHUZMjd3341t7IWQASoU9JPwW2at1Aw
+router-signature
+-----BEGIN SIGNATURE-----
+bE9XMCo1JpizOXWsq8OKb5rDodz/bzKFFz/F8lXfLUlBR9eJxcf0FNSFT6XJZVNT
+d7FjoCAVZXpvEp+jFED142IZeRQ6IxDejPHerLV0eGLzBQMMU/HsCYKTCoShP8Vg
+wELl12lv789GqL+mMLIys2ZerCn3YvSqZfhwW0BiIZA=
+-----END SIGNATURE-----
