@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 94.199.213.140 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4AWurPXd71MkKh35EqgGV5wUz27oPVZKnXMXFUT/GXvMvAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hiJ6/G93lhUt0iHGPWXLzrTuFEkX
+q+6Hw7Y1FxsxW2Nr9bgsbzT3QmoUqoyxbe+tpOwt11b9JGvZW9GbS+77ew8=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-10-26 01:18:47
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 201069
+bandwidth 819200 1638400 57629
+extra-info-digest 7993C54EACB82FFE372AA0F40FB4C5A92CF9BDC5 qiWDGb6HlwEugiu8Avjr0Kkac21FvpOctkeQZmZScWo
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALGMIh5oGkzFPfbhYJn5qky1Q2/hb4No1gOMzVEZc9kdGf3aQhkeov6O
+K0B54Ndi6fMil1tcUZ6YaZapCbTL7jokFxMRfv8U6cQt/nWOG1QWyuzN6+GJHgIo
+EY5BwYdTSz1jBp6bb4lRLMBLdaxw/WuQApqKpYIu+vGYCjk6MiqlAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+sF9zKnqkfsAJ8ybhInP4Ipzq0jtMimqEJTp5T4jzO2SQy6l+gAqBsXkCZ/Rqn73y
+iq+lf0ofKTuzh0FENwxl4HW4tMuzTKfB6zK5K7D5WJqGjlYGTCmccDanqPjwX5m4
+/fbddCttHfKcYLPOKfVMCkJpzF/6FjaVKCHKLcwDXVo=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABmYCAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGANU84WBjDhax
+16sxTWoMNsJ/PqKPdAiZjQgHnM2oK6at2GUzw1oPJZH7MIdWzZtLj8DGndMo/UQe
+c9QROgiUAQQ=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key pVM6jiuynJhtAv0f/2BQ1sewvVmjog4DKGYOJp3JjXw=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 CqrCFEfgJ9x/KxKH/7dQdLv0RjS5EZtwPv9fVB7Rh4Fl6KBLuV07HgmCXJ4J80kt7vBuGs7vB1WJH4+wn0MTBw
+router-signature
+-----BEGIN SIGNATURE-----
+I73vqIFn5/MmmqegACqnUSv2pRJtTdG9YOVDtOwiQnkDSbxxBoeszN0hP3IH4DwC
+0NU3NRrz66hFP1b9cBm/NxS7faM+0dnZqRROJFS3gmh5DrK4Hf4uW09rHLcZvTlm
+xvYIAX4cq/4KXcWnYAMuVTNCF+CsKDywURlVkXJGDJQ=
+-----END SIGNATURE-----
