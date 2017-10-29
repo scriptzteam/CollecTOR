@@ -1,0 +1,149 @@
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMHTFwbHO7SCuH6H7lnh5t8FhsNKZ+AZmLW7vGPLhbQfKImmkP+IqjKs
+EhqUiW8NmCzSiAmLE3WoaZ33PC0+1NhM/YrysWoDhh8nbs9haWDzImeGMXm1+Jkg
+jFnxt+i3+/jWLMqmIwLJn7osxEUXnL+cuMJAif3FWqVozmfdwNd1AgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key byoYYFWs5FWRQ/9p8ZgaHkpbEgk8yUo+01IzNCM7KR4=
+id ed25519 0w8GyWhnAaWXkG3U9pumljgdHPpSUoCFS2+8/tmXVlY
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOfNaKoxyf2yZ8nWg3p46GMchbj2qYsKhrV4u1JHtSom5ccBQr3LlXFN
+xfXjJ3KSg+XADilFDEbRYNrO1OKQR+QueGMgaPkYGKgjrvupihaK/BR5U8ZkiJoA
+VYm/+kmPPYbeFkdbNEHKzvXQJO9OYJzXJYH6DQTCZSFsRfPMCk2zAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key gEJ0PpS62SH+QQIsInnF1j1CSGxOnJFW9IW4byawsCY=
+id rsa1024 Kv0ZXkbh5yaTnu/0snvTghf7RD8
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAM2ZT9yXhlif9Q2ckwemwQX/RMziW5BVwpD7V31vP9/sSAyjze9hvhl0
+VwgYMcWHU7tBJdHIIOtm2tDA/1EGwU5YpWDC6dPzegPqdj79ZaSJv8a/4e6nEcgk
+dt83R89yFwj33bVL68xoq/bX6pizUoFULLGOGt/RLw00sK8VS8bDAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key TqhALC9u+nRWVlbCxQIGrK/ziRKQ0EV+j3I+/f3QI3k=
+id ed25519 icyFSQrPfR5m+z0+ORPBpLYToSw3MxCtcvCTYgcbW3g
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOPfz5tuLgP4854Ctbzwc2kzl8hm+bEP7JhdSqKytoW1SriIExaT4c40
+0OTgQptACh4dNISZyoAe5uFT9tNqfgjZICIkNzaXwWKtRF/mAzb5RzUVRyGPDkxp
+GObGMdg0jwm7+I65PTAGqM/b/AmSws8S4xePcPcFImipsxcqhOfpAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key rB47kMtTfjgO8+U4SYGF2+ZZ2bKg7x0zLDafyMSXdV8=
+id ed25519 qEP8atSVOVlh8HJnDS3IZ6H4+Mka1/oqj9dJBzCazmI
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKtRQsdCVpxoZMvEUBmIeZazIDg17yIsAjsBNCV7s+FCqzAZgHttjuop
+bE2iFXoncCIr2B+2ChMvc0EQuNQziBt07/32TzQXhREwjhFRMbvt72rqCHgPtbu9
+kVnfzNg55xLpPjFVi61Xs0dJRvrlN0S/1/0OFlhbLYvPQUAk3JgPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key OahSyEzvA6m/jOYMdrTjidTPQC/k/R3nvt16TSqhs1g=
+id rsa1024 LwD6BHJ2ACKMA0Cs2ieXJT60oF8
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAOFs8IbtKoGVuilJUR2nlkjzBCh5GD5z9JqAdcgHFBmlrIqU4Plvh0iJ
+4IsF80lWfv0+DOEdcT8u0q5yonI/lL8DwHR2XDOmRGZx2XO3W/0Y2/gmUw6Xr7jk
+dxrrd3r3vldSexdW7OGZ4ok1i2pH9w3AOoVatHOk5twMGBCWtW/vAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key BFCl+1VbAN95YG8Lgw2QA9MeYbu989RNAdurrLz0RVU=
+family $18CDB71ED173668F075C7DD2CF6EA7E0F083F25C
+id rsa1024 UOHenYpHs1B2RuWQ6v3+uUpI/Uw
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMQELRfxvnDChSmJQ2O31plV5QVFwnpZ4TVuaQYqCtO1SAd8uLmwVKrJ
+DTcZ4G+SSoWjCOjqmxyYVPcYgZmX+yzD8OHAeQFI0Br40P5uZJmPnw1bJLcpOzS+
+pFjL9WbX0D45uYaIfctrjMlx4kB7YromzwJTQazV9KINbIPEdMHxAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key RdsdXr3CnzTCwLNSbHjsGDhtOeOT4dDxx2hnXkQ3/hw=
+id ed25519 gVWqA1gqYbJ1ElirzerNPMF1/kjOLMppu6VQUdCq1oI
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAN/J28DWcYb1zISs0TpHbGXqY9wHLXU8lSrVBfLKqIeiFK+aDAkdBPaG
+iZ/phXzkM3ubkM+qBnd/+sq6bjeSSqg3x1tjlhTDYGBj9CazQCwilEtrK0ymNOnn
+s3qbgALO0N6J/nKUWabJPpv8q7v4FHzsD4fX5vVdZrSoV5Chi5nnAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key lJwRW3sX/aPrD00T6Eo8sQZS6qSrybvYYFsVvOuzEmc=
+id ed25519 ZFq9MrS5l/F0UySwsAN4Eh+xDHDikhSTV4AGxyEZip0
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAPJjdaw3ToQEZoNpvR3oH18dRws+zSv3PbJ5Lp5j6ZuSTvKPzBpnPY3v
+WbvcoS0HaCVq9LmaHABaizXnlcWX+j2kYQcniKL/cH9MjkL9gpprCp2VASdzmwz1
+2Io2Bx2s388IggIOEhyvv1HLj1vFC+FLdOAql0/0YWimSXTvqzixAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key 3x60ATtRSwN1JXwn42heul00x5huyX6VpGDMue/LrEg=
+p accept 20-21,43,53,79-81,88,110,143,220,389,443,464,531,543-544,554,636,706,749,873,902-904,981,989-993,995,1194,1220,1293,1500,1533,1677,1723,1755,1863,2083,2086-2087,2095-2096,2102-2104,3690,4321,4643,5050,5190,5222-5223,5228,8008,8074,8082,8087-8088,8232-8233,8332-8333,8443,8888,9418,10000,11371,19294,19638,50002,64738
+id ed25519 xjd1m1MIyfi1XoGr9Xaj2R8q37MazGo4yjC2u6gmk0s
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKPFeOF5Wg20o98N9OmoWLz1yGoH5ivuI7ey9CkznlgVe9vFtbzz5lin
+Vl7f6zUH2HG8+KtVCSFDwDghkNNjHe5U0ejOw0sD3+x9FccnF5sayQln9VEM9Q6K
+LOYOwqkfc9THDWvAanql/T3AbG6zJIDYJuDHxYQ61nORkMCjHX5BAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key 3Tn8vylf9nfYUxcVeZZf98aBXffLfmtxqGYggSnftiE=
+family $019FEB22CE04CBD0489B7F24BE038518B64FA223
+id ed25519 h+vpgiit/VapnknS1kv9pCqsJx7XX3WaWpRDKuezmAQ
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMBB2eCtlG3AzhKdJgzbPTDZq2g/cK2x+OfuduSBAchpX6UoVAIVRWNP
+WrdXDyonmZb+4SNFoAErQ7p2japqJpF8LnXBIvLDa6a3fscBsRuW9Tv/rmICoPhd
+zXrxmGzLetmAhi/kmGyvzdsNHthXwDdYcU3r6SfRpPQ30O6aObBTAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key r08ZGXa7IQWbVkRXWdHoNt1qHrOUoN5Jz+XTe4lUoUI=
+id ed25519 VPvnZDgvAMqywXHxNiEqPviZLcqr8Q+KoVxZJTLVEw4
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKSf6gEFgXqrCcYGw4qCQHLsf8BkCft5ru6h+OODe7N5N7XzT0nUNB+E
+qQbm1yuB/9z6B4owOCuXSfJRhpl2CMFwr0szxYjbb57C3lESvwtisURY55XjZTJW
+g/zJvCcH5LONE64mKzGx/s7cmD919aguJsfks4cuigXSfQaBhlxNAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key 2O45FIt0ULoRomdt0BlUcQrgGBwPtAba1sBf5/J/+Hs=
+id ed25519 WJl0vjI18w2vRZRp0PmvcERdPEfYttn68Yf66zjo/jQ
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAKeDQHroFwyFEJM62C+kmKDv0NUxWPmVhU2Hy+wT6BXSEo37IUXiMlD6
+XaDVHdWyc/6w3gSi1ZS+bxCs1L4ITmdqXz6h4rSzJF7pXeVOHeaE/FuxtSK1JcfS
+k5gkGomEHJi4NG01zAFsQCv37PkpebTRcEwHYSxgGCerPHWsO7gHAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key PvUx5JAZo56iJtIWvdgv4mxmfWURYtq1kwRyZmXOKHM=
+id ed25519 azbV874bQOiHkvwvz/DGlaSItNvUYnExMajsnErP/5E
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAL9gkc3OZVMjHWknDDqV2mvbw5BBX0jUbrcueVGidADORC1ijJQwEA3j
+v650HFPjOCGWuJ2Ry7aSbgqyoyEf9CwEzuAypabyL5qkkDVhTOe6Hefu2MnGDq7y
++kZeAN489ZH4jCfgAKCQ02LsBN4gfh41Naub5irYvJXLK42puqCrAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key gzb1TSc4NPgAsa/XBC+kiFqSSvrAy0qVVrRCDf/6qh4=
+family $019FEB22CE04CBD0489B7F24BE038518B64FA223 $FE296180018833AF03A8EACD5894A614623D3F76
+id ed25519 9SZtfxvawADCzwmAx2fwMMnLV/dQ+/gLT8+SKnweo+U
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAJp36Jl4TVcL4iyrR2TmE8nTOc7b8wTfNKP6lgL91NJL706wOmPFhRLO
+5YoCTcOFu7L6bWVF3E7ywF1FnV2zpOZvJDMslosDYqcEDJ0IyuZNNCbuMxV5mtmq
+N42fhrbSmdMCcU32yQZiytQw3jWjxt9Sr7t+4TTBxShxzYTgRuJbAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key 9MGg6+Zvku2qCOUYal41n7M9uHFoe+x9taGNMn/8yA4=
+id ed25519 6QgSzrctl97mYJK2iT6/cT/L0rU+SOpfc5dL69m0Xok
+@type microdescriptor 1.0
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANkmk8s86S7ZrwDz6o846TM41VZPPx/znCRxop6tgbMyLZ45INfG4bTV
+oPIJA4MXJLMcUzQ87aTe8pCg07ARZw/3SrSGlOHAkwU+T68dah13q+cVjl/9kNEW
+ob0nAw7whBZARUi8XLXJ3gNCQOj/Uybhi1ntP9nf9ayuqEm7v4FtAgMBAAE=
+-----END RSA PUBLIC KEY-----
+ntor-onion-key JcmbOkN874MWZgsoX7KzLJZgX0YcKBy9bkyg+XMP4FE=
+p accept 6660-6667
+id rsa1024 H3qtrr1hQdzqMg/oIdws+OfkS4E
