@@ -1,0 +1,29 @@
+@type extra-info 1.0
+extra-info xmine128 A7B6970237878E3550AE32BC574672CAF1E95FDC
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4AWurPXd71MkKh35EqgGV5wUz27oPVZKnXMXFUT/GXvMvAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hiJ6/G93lhUt0iHGPWXLzrTuFEkX
+q+6Hw7Y1FxsxW2Nr9bgsbzT3QmoUqoyxbe+tpOwt11b9JGvZW9GbS+77ew8=
+-----END ED25519 CERT-----
+published 2017-10-30 10:38:50
+write-history 2017-10-30 10:05:43 (14400 s) 272384,256000,220160,854016,289792,253952
+read-history 2017-10-30 10:05:43 (14400 s) 6572032,8318976,6576128,9732096,6901760,7468032
+geoip-db-digest B2E5105287668771E34A66F90B34982D419727EF
+geoip6-db-digest 8DA8AC3C8158CBFDF7DB53BBF73338246872371A
+dirreq-stats-end 2017-10-29 22:23:13 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+hidserv-stats-end 2017-10-29 22:23:13 (86400 s)
+hidserv-rend-relayed-cells -5939 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 22 delta_f=8 epsilon=0.30 bin_size=8
+router-sig-ed25519 wXgQz/sb44f83E609xf9Yk/WghamQvQ7+oED/9oXbYDP5O4pecq9ZUi0igMBxYmg78bftiVKw62NtXOUZrCuAw
+router-signature
+-----BEGIN SIGNATURE-----
+QX4Rk54R6b8zGebvdj0SZ/0CHrRAKilQzlb4O7bLqTAkvmVGZ3MjoScrJxPYY0rd
+sgFUjT1R4XXPtI+aZaLWuGSyP3Bf1+qn6Fm49ja/AeiVdGXfVFRPdorkfkOf48P+
+UkYt7z0qhL8uIxxUKBgZvTZH2MZGYd+KikB3o0B5j3w=
+-----END SIGNATURE-----

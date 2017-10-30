@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 94.199.213.140 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4AWurPXd71MkKh35EqgGV5wUz27oPVZKnXMXFUT/GXvMvAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hiJ6/G93lhUt0iHGPWXLzrTuFEkX
+q+6Hw7Y1FxsxW2Nr9bgsbzT3QmoUqoyxbe+tpOwt11b9JGvZW9GbS+77ew8=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-10-30 10:38:50
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 303077
+bandwidth 819200 1638400 54366
+extra-info-digest 153FDB72619D718ECD3675B81B2DEBE21F2BE4A6 rUvefqtwBVKhvBkLWYqjG4sD7c1xFSY5N2YXMrcJ9GY
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDR1IBjhHm2tT/S/izjOEyvVyGA4H8OSFpzKUto/eQ6ip1Si179rzi4
+dB7T4ZwkzDWsZdnlvcRFzaEi7vUUu0yHwIUYglSHJukiof8R0KEcEt41da3LFkfl
+S64tdoANqzDD3TxvqeL+185u7zmQqq88j5DsHiC9nfn6zLbzDMJVAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+j4grT323Rc0vbZrMNpcY/puwvcGjpJzdKrJEItirMpLm7kvBz9zZ8vG8NvFtPvaY
+sAhpHAb/aW2JoVsffkp4Da+szaRmjFY1r3f3bf9M5iq7/j8z+ZAxLzGo3dC+EvO2
+v44qDto4cm0wvx4OutYgiwqLaVuM8FEwcZ9yHvrOcQk=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABmZrAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGANBFoyLo9oPz
+5F+IUiYZYNjM24ER8EkOF8gBRuzUzy/t0Wwt8OTe5k+kYv0yOyx8piDs7eZUD5yr
+PeVS2io/FAk=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key jr4VYg9rALfOqzZgByW70bsLqq+ybqgwb4LAnbqg+ww=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 QI4XJt3LzQjexelNUHfNg4BLvL+V+HEnBmFKdBYTR4Zf6Ngqq8l6dY0I8WKetC8Uf1NVL09ne33iiqo/hgsXCg
+router-signature
+-----BEGIN SIGNATURE-----
+JCbViIHI9+uRTooS1I2Vy+JXbWU3j3GESbE73W2gvHBuYY5vwESvtMlTujs2x14v
+TwG6vfbDmyHAyxCaSFlpDjElPONyDQDuP3dzNKsqqw8/H0cOsA9GVFA6VdOFq2pP
+P61CiKeVVJXz71tAFFdwPh/b6WbcL95egQGS8bPfNLg=
+-----END SIGNATURE-----
