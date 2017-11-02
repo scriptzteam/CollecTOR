@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 94.199.213.140 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4AWurPXd71MkKh35EqgGV5wUz27oPVZKnXMXFUT/GXvMvAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hiJ6/G93lhUt0iHGPWXLzrTuFEkX
+q+6Hw7Y1FxsxW2Nr9bgsbzT3QmoUqoyxbe+tpOwt11b9JGvZW9GbS+77ew8=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-11-02 15:43:07
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 580533
+bandwidth 819200 1638400 61306
+extra-info-digest 8ED641F6D77D15D871C952D3E7D37628827898D3 rH1o5JDJFxWhVGNTiguM5ziQp7rBRzxma9Kz+j5QPRQ
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAMDR1IBjhHm2tT/S/izjOEyvVyGA4H8OSFpzKUto/eQ6ip1Si179rzi4
+dB7T4ZwkzDWsZdnlvcRFzaEi7vUUu0yHwIUYglSHJukiof8R0KEcEt41da3LFkfl
+S64tdoANqzDD3TxvqeL+185u7zmQqq88j5DsHiC9nfn6zLbzDMJVAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+j4grT323Rc0vbZrMNpcY/puwvcGjpJzdKrJEItirMpLm7kvBz9zZ8vG8NvFtPvaY
+sAhpHAb/aW2JoVsffkp4Da+szaRmjFY1r3f3bf9M5iq7/j8z+ZAxLzGo3dC+EvO2
+v44qDto4cm0wvx4OutYgiwqLaVuM8FEwcZ9yHvrOcQk=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABma4AZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGAEwlXYOWeMvC
+SGvwDZQOi3nN6CP2trflEm+Cihld11bhIycKUki8SPUaPHP1657L3YDXXn/5/sPK
+eG+pVIod8Qs=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key jr4VYg9rALfOqzZgByW70bsLqq+ybqgwb4LAnbqg+ww=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 QDlp0YWUQqlU+hXko6FzOGLPYhr1y/FOgWS2e+W8o+NqP3HLfRX6u7Bt+roE9Wh9mBbv+s6KnnpbN7wrPcsGDw
+router-signature
+-----BEGIN SIGNATURE-----
+Pzm9sz41G9s0Bn5Nu6ruo3B23ht6dRZiIVXg0FsakNFvKJZqqHHizqyyxZklZSb/
+EkMHQxFkawx2S6+Si2tOOlWGPzK+JutNFLHV+ISkqKMleAgbT3KTDeZZZuUJg47C
+gXA4C6FFKaQzk9QOH/7+Qj+ur7MktSTT6z7HTL3Jsvo=
+-----END SIGNATURE-----
