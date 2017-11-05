@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 95.129.55.173 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmZ4ATF1FfD71GUlfcGFGPqClS2Hlw6fn3spt+wvKK8S3MOXAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hqC1WM3up2KFEnrCgT/V6SAMLG+Q
+w8eHOsvikc1ujGff4XtCo1ebTZYz5cWF4xA1IslNeF/HDmoOb/6AIpjJHQM=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-11-05 20:49:06
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 2374956
+bandwidth 819200 1638400 55940
+extra-info-digest 5C3D3A4F715C02666E69F4DC6809CD32167517D1 xGdEn4SaIwWqjiqFfN2eVwiVE8X/Y1eURUeh0x222bw
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBAJ9amrk4jn2mgbUH4tWvvnNG2A+XDuOeTNOZO+QxiOhmmtN3ttYu1cH7
+VfU+//xjYwL8oueQwahHlqKt512lKyVabVVg+Qw57BwpLa4OJ6Xdyzf1gkYkOLy2
+yu3CbB/qEL2lqAzM83he7gWxDoh+r9VCfKww0Vm4nSL7OlPXLyAPAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+ZF/CMg1pjVIpauhAMWWABt75SLPVHJEVeVU5hq3jrc/9ObtWUqLlOj1H7o/5E1b3
+mONMrJcjhQm4/FJUNdhZoYmFbEobgmtCftnXrc9CVOCag+5oDR3xhP8s03aCun9R
+FatNGN3cj5rVuQwoCVCGumUhobxfJGQPd2ClsE4gGT8=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 0
+-----BEGIN ED25519 CERT-----
+AQoABmcFAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGACok6aIKlBFG
+thMCz6q9RC/L+gDEQIxMS3JqMrcnCF9aILEPffs13R8lYCZOL+LtENNmN9K/0Fgt
+uJ18Z2tI/w0=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key mmLRr/egLpTW/qqSNCLHnIMXmvjhzeJf0ZWg3xE4PFc=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 9tdfDVyqyVZHCF6D8HAzm8sVsg142EJK2VWULl3ic8U1YfR1RsyHh6Vw7p/8nzkQeggBChyforlB5Yfcu75tCA
+router-signature
+-----BEGIN SIGNATURE-----
+UMjpiK9PX2mStlR47/Y8E3V/dGsaxUDy2uG9U4OAYa4ohC56sDQnKzOe8K2ZA5rz
+mLTjZvz/UAlHbHnh2GsocLYeF89ltXix8fuX/a9JMsU5ZS2w5Ca0kk0QkJdkdvXi
+OTpAydJKLKLlNFD2m4knDLrz61pPiVNUKH7x95FkG7g=
+-----END SIGNATURE-----
