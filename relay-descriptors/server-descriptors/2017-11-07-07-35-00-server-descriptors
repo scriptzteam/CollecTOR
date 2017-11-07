@@ -1,0 +1,51 @@
+@type server-descriptor 1.0
+router xmine128 94.199.213.140 9001 0 9030
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmkxAcKs5h0YwGdkO3jVtyU+zMG5aFTbGMvD2U2lwg+HTbnMAQAgBACXQeRH
+wPF+kQ8CT/epFslj1L+sX5Ec1J2lM/O9dSk8hgOYGxDIw9E+bq0sLiG/6+GPuu0o
+0Qtkd+hnMR5ZBrzV6fSRZSjWZvbVMWrT76zqlLCqt2wu1k6UdQnWX7pJ4gM=
+-----END ED25519 CERT-----
+master-key-ed25519 l0HkR8DxfpEPAk/3qRbJY9S/rF+RHNSdpTPzvXUpPIY
+platform Tor 0.3.0.8 on Linux
+proto Cons=1-2 Desc=1-2 DirCache=1 HSDir=1-2 HSIntro=3-4 HSRend=1-2 Link=1-4 LinkAuth=1,3 Microdesc=1-2 Relay=1-2
+published 2017-11-07 06:43:31
+fingerprint A7B6 9702 3787 8E35 50AE 32BC 5746 72CA F1E9 5FDC
+uptime 980157
+bandwidth 819200 1638400 56801
+extra-info-digest E547BA743293171637ADC30EEE014D183C7979B8 pYBsf5RH9vYjN4e77Smr5yU90EGnnZ2w/wZ7XiBs4QQ
+onion-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBALORWwWRr5a3uuewACIhMLLaxZeJsVuqbG4JN1FfV641iROtRSCD9nBu
+1nLKS0ZbdSwU/FsKP8x0wZaMUBpZGfyywwYNUsRk0QPzF3T7ZI0tAeAWFBghydZI
+BJ4XjYyQGloqoU8ASk0eoNLWDEuobklFZCg9Cp5KD2L3tdBUWPxZAgMBAAE=
+-----END RSA PUBLIC KEY-----
+signing-key
+-----BEGIN RSA PUBLIC KEY-----
+MIGJAoGBANhXl5oFyKx+8bpUwUjOgPx566NiPhpG3pOiWawWnltqZ9ZFUqJV64gv
+stfFIx4IrKVR2fWI1wvTU/54XqoG2MieHcKVHAAzmlEPIxiVjk21IErNZoxDHJM4
+HHxXW5IFAlRloa3Ae+mJVyNPzqhF5WFTghIN5Bv0ZgHRNuOB0E9rAgMBAAE=
+-----END RSA PUBLIC KEY-----
+onion-key-crosscert
+-----BEGIN CROSSCERT-----
+hRAZ7spMeRxmovaLCXpuy1OspSne6Vd1hr3YRiNvTHMxlWGnnK+YxEApwMVY57Bn
+jqygukQecz9a3VOeev5VQnrgzlqLjOV8oRJOBlPqMUZ1FF+GtP8rahwS96HtxDL4
+GI5ySYhHa61dF8WyKnxlbLHFHTA9s+WF8RpBFi2/wbI=
+-----END CROSSCERT-----
+ntor-onion-key-crosscert 1
+-----BEGIN ED25519 CERT-----
+AQoABmcnAZdB5EfA8X6RDwJP96kWyWPUv6xfkRzUnaUz8711KTyGAGTmCNyhUJI6
+4GbAwy/vGOSvlZoya/lVp1t6qEuRXupy8sMP9AP8ZZEspAVsPvExD80IYMou3E3k
+begUdSiKqQU=
+-----END ED25519 CERT-----
+hidden-service-dir
+ntor-onion-key zTbSNMdUKE3dkc31Y+KwdcwUfDTCtyNWGNn9CFKkNnA=
+reject *:*
+tunnelled-dir-server
+router-sig-ed25519 s24MVGvum5PpAYnlYMhC9UmAaSBbe86z3hLKLV6/h7SbEOozrQ+Vs9FVB9pLIOw/paQWaTfv9GKnqG9N7WFaDw
+router-signature
+-----BEGIN SIGNATURE-----
+oLHtebl2KAf4IedUP4U9uD61b1PPRMuWmvlv9Jw9Zew8aYWzKL3VLnXMjdm34jpS
+3uFYtx/UnD4DHkDx5kBjagyDXmAsz2gtPEQTFf5aSnaey49rQ4HdbdWNFlYbf9eU
+4LilFMaYngVkW4Kxrw82g4T4+tPeRw6CAr2KmiM2D8Q=
+-----END SIGNATURE-----
