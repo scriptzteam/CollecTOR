@@ -1,0 +1,181 @@
+@type extra-info 1.0
+extra-info FreewayRP2 7F81DA2D5540411FDAB2ADF4B034BB75D7BAD4F2
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmd9Advh81y5/vBoyuvrfbAEKVPmspmtC96shRayGO7FmsHDAQAgBABr+rkK
+oJtvry5C13qObwtTUZESKOZSkxr1WItLhNL6g1S7QiIjcdKVi0iiXpZQf/fmv3BU
+fcU4POSlIfTCVKEc9kO679O3EU7IXNrZ0VadQ0XiyxPSyK2ryYl/l+HX2AM=
+-----END ED25519 CERT-----
+published 2017-11-09 10:51:00
+write-history 2017-11-09 06:32:24 (14400 s) 203776,241664,290816,188416,229376,206848
+read-history 2017-11-09 06:32:24 (14400 s) 4553728,4485120,4754432,3222528,5068800,3921920
+geoip-db-digest 35B23968A07D314AC832EDB177B6B79B932DF79F
+geoip6-db-digest 1B8C975E5C62CF0FB5B4E598AE27B7189952BB09
+dirreq-stats-end 2017-11-08 20:59:29 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+hidserv-stats-end 2017-11-08 20:59:29 (86400 s)
+hidserv-rend-relayed-cells -4922 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -13 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-11-08 21:03:22 (86400 s) bin-size=10000 write-drop=0 write-pad=0 write-total=10000 read-drop=0 read-pad=0 read-total=10000 enabled-read-pad=0 enabled-read-total=0 enabled-write-pad=0 enabled-write-total=0 max-chanpad-timers=0
+router-sig-ed25519 vKSWWv+xaiNGSa+sV7p1lIl2FOS/fLMtpO+sNjT9G7XqnzaOVwMSaYY5KqJxA/mKePvstlAmULCT25KCvLhpDQ
+router-signature
+-----BEGIN SIGNATURE-----
+ggKkv9fk1+H48TQmybi2C+SqEj1ZdOpv5iGG8T8YXGI5U9CYpr+U3DxOToZgO1Zg
+N8l/GEyi58fZJqpj3mhdykB8JP7GCUhDtLqqz5zB7plskZ3Byj7r1hlHZHakUiig
+0mTZNgvf2TcE+87TmVXPQ9sHfhRXrRpDPgh0gTSteVE=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info Xca00K8ECB4adVyySpy 2091CF473AB62C14A148AEFF37AB4CC48238217C
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmgkAQZF9VC62jobERimI3a2RsLLucbF9PkZHXPZoIzVANlDAQAgBACY5/D+
+EXJXWxCe71JnZnVKX0aN2mteH1luS/0rJbQ3Oe0ucuI7dP4s0nyVZ4UB31GblXBC
+QVNuF24ob9tagqi9kQL/9J8XK98JRZe3qHyqwY5paWSJ+qh2ix0jRWiktgo=
+-----END ED25519 CERT-----
+published 2017-11-09 10:59:52
+write-history 2017-11-09 09:04:14 (14400 s) 3041280,7602611200,3116534784,204800,231424,190464
+read-history 2017-11-09 09:04:14 (14400 s) 7074816,7611166720,3123678208,3736576,5587968,4378624
+dirreq-write-history 2017-11-07 09:04:14 (14400 s) 0,0,0,0,0,0
+dirreq-read-history 2017-11-07 09:04:14 (14400 s) 0,0,0,0,0,0
+geoip-db-digest 0CE9EA8882EDED265451C36B49AE7BBB06A11C16
+geoip6-db-digest C4573496EBD1CC335843067107DA49E482568FF6
+dirreq-stats-end 2017-11-08 20:33:48 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+hidserv-stats-end 2017-11-08 20:33:48 (86400 s)
+hidserv-rend-relayed-cells 354337 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -18 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-11-08 20:34:12 (86400 s) bin-size=10000 write-drop=0 write-pad=120000 write-total=140000 read-drop=0 read-pad=150000 read-total=20430000 enabled-read-pad=10000 enabled-read-total=10000 enabled-write-pad=10000 enabled-write-total=10000 max-chanpad-timers=13
+router-sig-ed25519 Cu9hELDrmEkB0+No+zizBsPeBKN/UE154AudS/VaRfJKbzD9EPn5u4Hs7ooV0VsDex9rxAWbuD91jfbMvRXQAA
+router-signature
+-----BEGIN SIGNATURE-----
+Nypz/zvl+LeQOwYxhzRm5Tx/7OwnW6tQ12UvT5cgG7eSHts9yZk1+64PRpmDaFNz
+PF384+vduTq+YpEl/LilVxDZF4v3Nxud55CNv3FiTe1olQlrEzOugPjFKkyFWc8C
+0zoBcdZ7RPPVzVwRFP1qRIRU3+tNyAUA89Hf1iCQGLo=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info silverfoxden 1FD18E3529A4409CA8F45175969FDEB5F7456F76
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmixAYSNCVvEH1i5lZkyOQmbVNbuop6k6VkeETFfXw/ue+HCAQAgBADOFngt
+53oos466wIXlslx8xbvAIq0zsptPAnAnMQRoVpjs8qkoTkEmnK7pClBID14anzVt
+ZWGbqHzCVGx085MCHHa0N3c7Yrmkcd5+zg6pbCDiyd9m0ZI84fvG9xojgQA=
+-----END ED25519 CERT-----
+published 2017-11-09 10:49:32
+write-history 2017-11-09 09:57:25 (14400 s) 655360,879616,790528,754688,587776,649216
+read-history 2017-11-09 09:57:25 (14400 s) 6353920,8461312,9004032,8251392,7902208,7243776
+dirreq-write-history 2017-08-30 02:28:36 (14400 s) 2880512,2364416,2597888,1114112,692224,754688
+dirreq-read-history 2017-08-30 02:28:36 (14400 s) 1363968,1369088,1457152,1389568,1327104,1250304
+geoip-db-digest B2E5105287668771E34A66F90B34982D419727EF
+geoip6-db-digest 8DA8AC3C8158CBFDF7DB53BBF73338246872371A
+dirreq-stats-end 2017-11-09 10:28:46 (86405 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+hidserv-stats-end 2017-11-09 10:28:46 (86405 s)
+hidserv-rend-relayed-cells -13631 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 0 delta_f=8 epsilon=0.30 bin_size=8
+router-sig-ed25519 HeHRvq/W+PAImvRPNHenJxqz4w+b+DcGmkdzmQSr2w/g8e7XjgjQL7j5C8UzSlH8GqOMXn7bk4ciKsFKXGMxCg
+router-signature
+-----BEGIN SIGNATURE-----
+r9J07SDcKEtjkAGlWrqxHbG+G+BFnwngX7ScbUOQ/MFgNzpLBUhSUlzwORbcF9Ji
+0xFU7BTmVVruemR9WdQMcHlphrwv037oWS4w0OrfQbetUTYOL2pDHFwo1e8A2TOK
+3TlcKZHPuCdo4lwptNjUFACEKaQpjKnoY6wiFkrjz1Y=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info pkmnalismar 73F410D5845564C74D5DA4818F7A7F87A3A16996
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmcxAb9I8BmoaN1sfXpk3sjXQk1s1Sien05+9LABCAV9prBlAQAgBAAG8+AB
+9ctLo8OnadfYuSOG+i5FkrkTjMMM6n2VjJLAINkXefU5HsxWqsC8din0jjmhx+Uk
+UlOqRDl7KrtbAbpX0RFkTV358ilDfu9n70NzMAvPrA3sef7Z0a5/jAwsfww=
+-----END ED25519 CERT-----
+published 2017-11-09 11:47:45
+write-history 2017-11-09 07:50:37 (14400 s) 16016384,12992512,20598784,20587520,94666752,185638912
+read-history 2017-11-09 07:50:37 (14400 s) 16772096,13784064,23854080,25142272,100570112,188348416
+dirreq-write-history 2017-11-09 07:50:37 (14400 s) 2727936,91136,97280,764928,1140736,1214464
+dirreq-read-history 2017-11-09 07:50:37 (14400 s) 139264,19456,4096,16384,51200,103424
+geoip-db-digest C1EB5237F2FBAF63381D8551157F13D12EFCCA25
+geoip6-db-digest 1F99B6B0EC78E9DB34D61AE7E0FC261D558E8E5D
+dirreq-stats-end 2017-11-08 18:28:36 (86400 s)
+dirreq-v3-ips au=8,bg=8,co=8,de=8,fr=8,lu=8,nl=8,th=8,tw=8,us=8
+dirreq-v3-reqs au=8,bg=8,co=8,de=8,fr=8,lu=8,nl=8,th=8,tw=8,us=8
+dirreq-v3-resp ok=16,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=8,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=12,timeout=0,running=0
+hidserv-stats-end 2017-11-08 18:28:36 (86400 s)
+hidserv-rend-relayed-cells 7331 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -3 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-11-08 18:28:43 (86400 s) bin-size=10000 write-drop=10000 write-pad=10000 write-total=20000 read-drop=10000 read-pad=20000 read-total=240000 enabled-read-pad=0 enabled-read-total=0 enabled-write-pad=0 enabled-write-total=0 max-chanpad-timers=0
+router-sig-ed25519 cEjaC1DquKZ56bDMeZ6x6zUaK0Q5xS4T33vD1eefd7qnq72DEMXYcTmJlxs7+Epo0e0fyoJ6TtbidABYvfeABg
+router-signature
+-----BEGIN SIGNATURE-----
+TkLJkMvQs9xbbJFCt9z5x7QmnOW3nviWgzH5JNTsCg8f3DMaUhcaukZoJ28uzV4L
+ERRNBMwv7SU8lk2mY/u9zX+ReoT6hc+jLh484oZv+bLIDIJKzoqgKgZJyHo5RAzn
+YT7gJLaDmsqlFQiyigqhqr2V6a69/FDSK2vpnvTDYe4=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info icanhazfunk F075C0935F331763ADFB9E07E4D4D35A74E297D7
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABme7AXoAAqjniXYA2ucqjLrm8ydTOk2S4GG/AMk8iij/PsVgAQAgBACl4XC5
+LvjdpgvPE4BS6TQR7cbXEQIzj1mnY2lw9ZHoAoJOp/ep9DJrA12kZzDss9yHQ7Gd
+P22D58N6JeOeSuQ/Jaga6hlWebpHjo9Vv/h/wgOluMhOc2+6z8oZJuTkZwQ=
+-----END ED25519 CERT-----
+published 2017-11-09 11:43:16
+write-history 2017-11-09 09:14:47 (14400 s) 7950597120,236544,321536,672768,14398217216,29756370944
+read-history 2017-11-09 09:14:47 (14400 s) 7963884544,1930240,5241856,3974144,14436847616,29807124480
+dirreq-write-history 2017-11-07 23:17:01 (14400 s) 0,0,0
+dirreq-read-history 2017-11-07 23:17:01 (14400 s) 0,0,0
+geoip-db-digest 3A59213E5CFEE380F544B72DC1105366C6BD1CDE
+geoip6-db-digest 1B8C975E5C62CF0FB5B4E598AE27B7189952BB09
+dirreq-stats-end 2017-11-09 11:17:03 (86400 s)
+dirreq-v3-ips 
+dirreq-v3-reqs 
+dirreq-v3-resp ok=0,not-enough-sigs=0,unavailable=0,not-found=0,not-modified=0,busy=0
+dirreq-v3-direct-dl complete=0,timeout=0,running=0
+dirreq-v3-tunneled-dl complete=0,timeout=0,running=0
+hidserv-stats-end 2017-11-09 11:17:03 (86400 s)
+hidserv-rend-relayed-cells 2382062 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen 57 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-11-09 11:17:14 (86400 s) bin-size=10000 write-drop=0 write-pad=170000 write-total=190000 read-drop=0 read-pad=200000 read-total=102330000 enabled-read-pad=10000 enabled-read-total=130000 enabled-write-pad=20000 enabled-write-total=20000 max-chanpad-timers=16
+router-sig-ed25519 xI8VR0lkSekKh0tlcYRhgChOSM0J2XKyFDYbAvkYoCCqijKbnrYB7vj01fAqA4ze5lowkded/X6r1v3nGmN5Aw
+router-signature
+-----BEGIN SIGNATURE-----
+i+NXO+797l9/qzB3lnlTE+SxQmd5cEJzaHcfR/c96GOw0GLeB+6hP4nTXbCtqvSu
+nIp73nnUqBbpu3Wg8TepXqmAdc0j39T+hX2cO2jN06x4cIwQ7DMcxdk80aZ9KSeb
+4rlijiXAV93/i64AJI3PPkhGdyFDCTNMwWSrYEXPw+4=
+-----END SIGNATURE-----
+@type extra-info 1.0
+extra-info Unnamed 313E399D07D926D007500FA0F76A5BB61EE04D1C
+identity-ed25519
+-----BEGIN ED25519 CERT-----
+AQQABmiVAV/tTasHXawd2f1o4Ce72UfsYCEytRqknWBHpyVnC1+YAQAgBACK3U8p
+MriZnlkgU1yCofhJZdvSpjABXsR1S6encvtVVnBTgj08yA7PJgiRIj2kp4AUUQi0
+9lj4jTj1XiLPVVXjJOktibhwq0vA17auCuiy6eKNHCvt4wqomp0PCgKtYwA=
+-----END ED25519 CERT-----
+published 2017-11-09 11:01:19
+write-history 2017-11-09 07:41:16 (14400 s) 1028096,985088,893952,956416,914432,858112
+read-history 2017-11-09 07:41:16 (14400 s) 4871168,5256192,5001216,4261888,4524032,4889600
+dirreq-write-history 2017-10-23 03:41:16 (14400 s) 0,0,2593792,287744,24525824,70133760
+dirreq-read-history 2017-10-23 03:41:16 (14400 s) 0,0,30720,33792,1502208,2604032
+hidserv-stats-end 2017-11-08 11:41:17 (86400 s)
+hidserv-rend-relayed-cells -17003 delta_f=2048 epsilon=0.30 bin_size=1024
+hidserv-dir-onions-seen -18 delta_f=8 epsilon=0.30 bin_size=8
+padding-counts 2017-11-08 11:43:00 (86400 s) bin-size=10000 write-drop=0 write-pad=10000 write-total=10000 read-drop=0 read-pad=10000 read-total=20000 enabled-read-pad=0 enabled-read-total=0 enabled-write-pad=0 enabled-write-total=0 max-chanpad-timers=0
+router-sig-ed25519 SAVlnrIGT0HrGsytdRE775CvkYh4KL8nYj1u+1vjK92AGdacfh7V5zmzuAzLXKLjXUDysZ+Dorxzbt1xbEK6CA
+router-signature
+-----BEGIN SIGNATURE-----
+wLuSDLmPK+15XshBnB/MZbVPw2HnJmUIksHR0jfQxiydomLzedqN8bblcFSHy+5q
+yqWx0alIsMJciFRWeDLxKqffL3D7u5Tsu4akkDz4uvP7Zbz3CsbVBG1s9bQaMjqQ
+927yx0Hu+QcuIV8pvVPVglxe1O3yfoEo1S3ZGeKEn+8=
+-----END SIGNATURE-----
